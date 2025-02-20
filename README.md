@@ -16,7 +16,7 @@ This is a React Native application built with Expo and `expo-router`. The app fe
 
    ```bash
    git clone https://github.com/TharushaRehan/upview-assessment.git
-   cd starwars-expo-app
+   cd upview-assessment
    ```
 
 2. Install dependencies
